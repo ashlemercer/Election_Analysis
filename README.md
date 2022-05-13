@@ -27,8 +27,11 @@ As we have observed, we succesfully added to our original PyPoll that only inclu
 
   1) It can be continually added to in order to include even more data, like finding what percentage of each county votes went to which candidate. This would highlight where they are most popular so that they can adjust their campaigning in the future to see where they could put in more work to recieve more of the votes next time around.
   
-  2) The script could easily be manipulated to read a different set of Election Results by changing the csv. file and adjusting the data accordingly. Writing the script was the hard part, and now this allows for a quick analysis of large amounts of data with a less intensive amount of time manipulating details to accomodate new information.
+  2) The script could easily be manipulated to read a different set of Election Results by changing the file_to_load csv. path (pictured below) and adjusting the data accordingly. Writing the script was the hard part, and now this allows for a quick analysis of large amounts of data with a less intensive amount of time manipulating details to accomodate new information, saving the election audit team lots of time.
   
+ <img width="527" alt="Screen Shot 2022-05-12 at 11 26 56 PM" src="https://user-images.githubusercontent.com/103979087/168211315-47b05575-a5f4-4fda-960d-34c294049697.png">
+
+ 
 ### Resources:
 V.S Code 1.66.2
 Python 3.7.6
